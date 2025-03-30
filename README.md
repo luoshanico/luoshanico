@@ -14,9 +14,9 @@ I'm a Python and SQL developer with 8 years of experience in finance, specialisi
 I'm currently taking time off work to explore life in China and to deepen my programming skills by working on self-driven projects. I'm exploring Python developer roles in fintech and financial technology.
 
 🔧 **Featured Projects**
+- [Physics Experiment Simulator](https://github.com/luoshanico/engineered) – A GUI using Pymunk to create interactive, educational physics simulations.
 - [Investment Dashboard](https://github.com/luoshanico/investment-dashboard) – Track asset holdings and performance using Streamlit and real-time price data.
-- [Job Market Scraper](https://github.com/luoshanico/job-market-scraper) – Automated scraping tool to gather and tag job listings for backend/data engineering roles.
-- [Physics Experiment Simulator](https://github.com/luoshanico/physics-simulator) – A GUI using Pymunk to create interactive, educational physics simulations.
+- [Job Market Scraper](https://github.com/luoshanico/job_scraper) – Automated scraping tool to gather and tag job listings for backend/data engineering roles.
 
 📫 **Get in Touch**  
 - [LinkedIn](https://www.linkedin.com/in/nico-worrall-25501082/)
