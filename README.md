@@ -16,7 +16,7 @@ I'm currently taking time off work to explore life in China and to deepen my pro
 🔧 **Featured Projects**
 - [Physics Experiment Simulator](https://github.com/luoshanico/engineered) – A GUI using Pymunk to create interactive, educational physics simulations.
 - [Investment Dashboard](https://github.com/luoshanico/investment-dashboard) – Track asset holdings and performance using Streamlit and real-time price data.
-- [Job Market Scraper](https://github.com/luoshanico/job_scraper) – Automated scraping tool to gather and tag job listings for backend/data engineering roles.
-
+- [Job Market Scraper](https://github.com/luoshanico/job_scraper) – Automated scraping tool to gather and tag job listings.
+  
 📫 **Get in Touch**  
 - [LinkedIn](https://www.linkedin.com/in/nico-worrall-25501082/)
